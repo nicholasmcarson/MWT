@@ -925,86 +925,50 @@ td
 	white-space:normal;}
 .xl149
 	{mso-style-parent:style0;
-	color:windowtext;
-	font-size:12.0pt;
-	font-weight:700;
-	font-family:"Courier New", monospace;
+	font-size:9.0pt;
+	font-family:"Book Antiqua", serif;
 	mso-font-charset:0;
-	text-align:left;
-	border-top:1.0pt solid windowtext;
-	border-right:none;
-	border-bottom:none;
-	border-left:1.0pt solid windowtext;
+	text-align:center;
 	mso-background-source:auto;
 	mso-pattern:white none;}
 .xl150
 	{mso-style-parent:style0;
-	color:windowtext;
-	font-size:12.0pt;
-	font-weight:700;
-	font-family:"Courier New", monospace;
+	font-size:8.0pt;
+	font-family:"Book Antiqua", serif;
 	mso-font-charset:0;
-	text-align:left;
-	border-top:1.0pt solid windowtext;
-	border-right:1.0pt solid windowtext;
-	border-bottom:none;
-	border-left:none;
+	text-align:center;
 	mso-background-source:auto;
 	mso-pattern:white none;}
 .xl151
 	{mso-style-parent:style0;
-	color:windowtext;
-	font-size:12.0pt;
+	font-size:16.0pt;
 	font-weight:700;
-	font-family:"Courier New", monospace;
+	font-family:"Calibri Light", serif;
 	mso-font-charset:0;
-	text-align:left;
-	border-top:none;
-	border-right:none;
-	border-bottom:none;
-	border-left:1.0pt solid windowtext;
-	background:#F2F2F2;
+	text-align:center;
+	mso-background-source:auto;
 	mso-pattern:white none;}
 .xl152
 	{mso-style-parent:style0;
-	color:windowtext;
-	font-size:12.0pt;
-	font-weight:700;
-	font-family:"Courier New", monospace;
+	font-size:9.0pt;
+	font-family:"Book Antiqua", serif;
 	mso-font-charset:0;
-	text-align:left;
-	border-top:none;
-	border-right:1.0pt solid windowtext;
-	border-bottom:none;
-	border-left:none;
-	background:#F2F2F2;
+	text-align:right;
+	mso-background-source:auto;
 	mso-pattern:white none;}
 .xl153
 	{mso-style-parent:style0;
-	color:windowtext;
-	font-size:12.0pt;
-	font-weight:700;
 	font-family:"Courier New", monospace;
 	mso-font-charset:0;
-	text-align:left;
-	border-top:none;
-	border-right:none;
-	border-bottom:none;
-	border-left:1.0pt solid windowtext;
+	text-align:center;
 	mso-background-source:auto;
 	mso-pattern:white none;}
 .xl154
 	{mso-style-parent:style0;
-	color:windowtext;
-	font-size:12.0pt;
 	font-weight:700;
 	font-family:"Courier New", monospace;
 	mso-font-charset:0;
-	text-align:left;
-	border-top:none;
-	border-right:1.0pt solid windowtext;
-	border-bottom:none;
-	border-left:none;
+	text-align:center;
 	mso-background-source:auto;
 	mso-pattern:white none;}
 .xl155
@@ -1014,11 +978,10 @@ td
 	font-weight:700;
 	font-family:"Courier New", monospace;
 	mso-font-charset:0;
-	text-align:left;
-	border-top:none;
-	border-right:none;
-	border-bottom:none;
-	border-left:1.0pt solid windowtext;}
+	text-align:center;
+	border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:white none;}
 .xl156
 	{mso-style-parent:style0;
 	color:windowtext;
@@ -1026,84 +989,7 @@ td
 	font-weight:700;
 	font-family:"Courier New", monospace;
 	mso-font-charset:0;
-	text-align:left;
-	border-top:none;
-	border-right:1.0pt solid windowtext;
-	border-bottom:none;
-	border-left:none;}
-.xl157
-	{mso-style-parent:style0;
-	color:windowtext;
-	font-size:12.0pt;
-	font-weight:700;
-	font-family:"Courier New", monospace;
-	mso-font-charset:0;
-	text-align:left;
-	border-top:none;
-	border-right:none;
-	border-bottom:1.0pt solid windowtext;
-	border-left:1.0pt solid windowtext;
-	mso-background-source:auto;
-	mso-pattern:white none;}
-.xl158
-	{mso-style-parent:style0;
-	color:windowtext;
-	font-size:12.0pt;
-	font-weight:700;
-	font-family:"Courier New", monospace;
-	mso-font-charset:0;
-	text-align:left;
-	border-top:none;
-	border-right:1.0pt solid windowtext;
-	border-bottom:1.0pt solid windowtext;
-	border-left:none;
-	mso-background-source:auto;
-	mso-pattern:white none;}
-.xl159
-	{mso-style-parent:style0;
-	font-size:9.0pt;
-	font-family:"Book Antiqua", serif;
-	mso-font-charset:0;
 	text-align:center;
-	mso-background-source:auto;
-	mso-pattern:white none;}
-.xl160
-	{mso-style-parent:style0;
-	font-size:8.0pt;
-	font-family:"Book Antiqua", serif;
-	mso-font-charset:0;
-	text-align:center;
-	mso-background-source:auto;
-	mso-pattern:white none;}
-.xl161
-	{mso-style-parent:style0;
-	font-size:16.0pt;
-	font-weight:700;
-	font-family:"Calibri Light", serif;
-	mso-font-charset:0;
-	text-align:center;
-	mso-background-source:auto;
-	mso-pattern:white none;}
-.xl162
-	{mso-style-parent:style0;
-	font-size:9.0pt;
-	font-family:"Book Antiqua", serif;
-	mso-font-charset:0;
-	text-align:right;
-	mso-background-source:auto;
-	mso-pattern:white none;}
-.xl163
-	{mso-style-parent:style0;
-	font-family:"Courier New", monospace;
-	mso-font-charset:0;
-	text-align:center;
-	mso-background-source:auto;
-	mso-pattern:white none;}
-.xl164
-	{mso-style-parent:style0;
-	font-weight:700;
-	font-family:"Courier New", monospace;
-	mso-font-charset:0;
-	text-align:center;
-	mso-background-source:auto;
+	border:.5pt solid windowtext;
+	background:#D9D9D9;
 	mso-pattern:white none;}
